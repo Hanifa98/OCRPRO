@@ -1,0 +1,4 @@
+azure-cognitiveservices-vision-computervision==0.9
+msrest==0.7.1
+pandas==2.2.3
+python-dotenv
